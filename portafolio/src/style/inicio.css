@@ -1,0 +1,28 @@
+
+.division_inicio{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.imagen-portada{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.descripcion-inicio{
+    width: 50%;
+    color: white;
+}
+body{
+background-color: rgb(0, 0, 0);
+}
+.fondo-inicio{
+    background-color: rgb(9, 6, 62);
+    
+}
+
